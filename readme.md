@@ -218,8 +218,6 @@ beauty
 
   ## What does the distribution of the products purchased look like ? 
 
-  [Interactive Plotly Chart](graphs/item_frequency.html)
-
   <kbd> <img src="images/Top Items by by Purchase Frequency.PNG"/> </kbd>
 
   From the chart above we can quickly identify that product purchase frequency drops significantly after the top 1000 ranked products (around the 50 percentile of product count) and organic and fresh products are by far the most popular products
@@ -228,8 +226,6 @@ beauty
   The distribution is right skewed with a long tail and a mode of 1 for product purchased count  
   
   ## Do customers purchase items together frequently ? 
-
-  [Interactive Plotly Chart](graphs/user_purchase_frequency.html)
 
   <kbd> <img src="images/Top Users by Purchase Frequency.PNG"/> </kbd>
   
