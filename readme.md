@@ -263,10 +263,10 @@ beauty
 
   If we visualize the association rules using a heatmap of the lift metrics, we can easily identify the items with strongest association lift scores: 
 
-  <kbd> <img src="images/Items Relationships HeatMap.PNG"/> </kbd>
+  <kbd> <img src="images/heatmap.png"/> </kbd>
 
   We can identify that Organic Garlic, Bag of Organic Bananas and Organic Yellow Onion have the strongest relationship. \
-  Another example include Organic Has Avocado, Organic Strawberries and Organic Lemon.
+  Another example include Organic Hass Avocado, Organic Strawberries and Organic Lemon.
 
   ## Can we use this information to recommend other products based on a customer’s cart ?
 
@@ -286,4 +286,4 @@ beauty
 ## Conclusion
 * Through the application of association rule mining, we have successfully identified patterns in customer purchasing behavior, revealing which products are frequently bought together. This insight allows us to better understand product affinities and co-purchase trends.
 
-* Moreover, by utilizing the Apriori model, we can now offer personalized product recommendations to Instacart customers. Based on the items already in their cart, we can suggest complementary products, enhancing the shopping experience and potentially increasing overall basket size. This data-driven approach not only improves customer satisfaction but also offers a valuable tool for increasing sales and optimizing product offerings.
+* Moreover, by utilizing the Apriori model, we can now offer personalized product recommendations to Instacart customers. Based on the items already in their cart, we can suggest complementary products, enhancing the shopping experience and potentially increasing overall basket size. This data-driven approach not only improves customer satisfaction but also offers a valuable tool for increasing sales and optimizing product offerings
