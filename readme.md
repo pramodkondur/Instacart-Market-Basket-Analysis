@@ -1,7 +1,8 @@
-# Market Basket Analysis and Association Rules
+# Instacart Market Basket Analysis and Association Rules
 
 ![image](images/mb.jpeg)
 Credits: [Grocey Doppio](https://www.grocerydoppio.com/articles/the-transformative-power-of-ai-in-personalizing-the-grocery-shopping-experience)
+
 <a href="https://www.python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-3B7EAB?logo=python&logoColor=white">
 </a>
